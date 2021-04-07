@@ -1,7 +1,6 @@
 
 /* 
  * lcd.c
- * Author: Kunal Sharma, Intern at Mavuno Technologies
  */
 
 #define F_CPU 14745600
